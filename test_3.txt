@@ -1,1 +1,2 @@
-This is the third file for git
+This is the third file for git.
+Made some changes in file 3

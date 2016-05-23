@@ -1,2 +1,3 @@
 This is the third file for git.
 Made some changes in file 3
+Added some more text

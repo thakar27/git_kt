@@ -1,2 +1,2 @@
-This is the fisrt test for git
-Changed something in test_1
+This is the fisrt test for git.
+Made changes in test_1, and will change the branch to release 1

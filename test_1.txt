@@ -1,2 +1,2 @@
 This is the fisrt test for git
-Release1 Statement:Changed something in test_1.Made change in master git branch now making changes in release 1 branch.
+Release1 Statement:Changed something in test_1.Made change in master git branch now making changes in release 1 branch.Again made some changes

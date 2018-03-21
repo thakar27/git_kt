@@ -1,1 +1,2 @@
 This is the second t for git
+Checkout to git branch

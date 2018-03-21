@@ -1,2 +1,3 @@
-This is the fisrt test for git
+This is the fisrt test for git 
+I am typing something.
 Release1 Statement:Changed something in test_1.Made change in master git branch now making changes in release 1 branch.
